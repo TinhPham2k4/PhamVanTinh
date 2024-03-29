@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\laptrinhweb2_lythuyet.props" />
+</Project>

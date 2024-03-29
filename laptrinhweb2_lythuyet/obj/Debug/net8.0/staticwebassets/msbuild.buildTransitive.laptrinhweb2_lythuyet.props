@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\laptrinhweb2_lythuyet.props" />
+</Project>
